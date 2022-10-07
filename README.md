@@ -16,9 +16,11 @@
   + drop shadow: 그림자 (x,y축 설정가능)
   + 효과 복사: effect 위에 ....  > + 
  + 도형 내보내기: export > 확장자, 크기, 이름 지정. 아이콘은 png로 저장
- 
+ + 
 ### Figma 도형에 이미지 넣기
 + 1. place image > 프레임에 드래그
 + 2. 도형 그리기 > Fill: image > Choose image
 + 3. 도형 그리기 > 위에 이미지 놓고 > use as mask (ctrl alt M) 
 + 4. 도형 그리기 > place image > 도형 안에 click
+ + 이미지 여러장 한꺼번에 도형에 넣기 : 이미지 선택 후 도형 안에 클릭 클릭 클릭~ 
+ + 이미지 순서 바꾸기: 바꾸고 싶은 이미지 모두 선택 후 가운데 빨간 동그라미를 잡고 switch
