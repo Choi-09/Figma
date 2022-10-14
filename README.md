@@ -31,3 +31,15 @@
  + T 텍스트 입력 후 드래그 > 텍스트 스타일 클릭(파랑색으로 지정되면) > 방향키로 텍스트 보면서 지정
  + 가독성이 중요! 가독성 좋은 글꼴로 지정! > 한글, 숫자, 영어 차이나지 않는 글꼴이 좋다
  + 저작권 확인 후 사용!
+ + 영문 대/소문자 설정: 텍스트 ... Case
+
+### 컴포넌트
+ + 생성: 컴포넌트 생성할 아이템 그룹설정 > frame상단 'create component' (ctrl alt k) 
+   + 컴포넌트 사용 이유: 중복되는 수많은 컨텐츠의 설정을 한번에 수정가능
+ + 특별지정: 해당 인스턴스 선택 > 우클릭 > Detach Instance > Ungroup > 원하는 내용 수정
+ 
+ ### 아이콘 추가
+  + home > community > material 검색 > material design icon(plugin)
+  + 자주쓰는 아이콘은 컴포넌트로 등록해서 사용
+  + 변경하고싶은 컴포넌트 아이콘 더블클릭 > 우측 메뉴 Design > Constraints 상단 화살표 클릭 > swap instance
+  + 이름지정 기존 아이콘의 색상 저장: 기존 아이콘 선택 > selection colors :: > + > 
